@@ -85,3 +85,5 @@ Ship plan: [`PLAN.md`](./PLAN.md).
 - [ ] `ALLOW_SIMULATE=false` on production API  
 - [ ] `/api/ready` says `ready: true`, `simulationEnabled` is false on health
 - [ ] Incognito landing, dashboard, pay, and invoice-detail routes show explicit retry UI during a controlled API outage
+
+- [ ] New PR
